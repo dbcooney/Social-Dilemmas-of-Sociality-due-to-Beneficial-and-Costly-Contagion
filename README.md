@@ -9,11 +9,11 @@ For reference, below is a list of figures and the scripts that were used to gene
 - Figure 2: adanreplicator.py
 - Figure 3a: pip.py
 - Figure 3b: ESSandSO_regimes_CD.py
-- Figure 3c: adansocialdilemma.py
+- Figure 3c: replicator_equation.py
 - Figure 4: stabilityregionfigure.py
-- Figure 5: adanreplicator.py
-- Figure 6: adansocialdilemma.py
-- Figure 7: adansocialdilemma.py
+- Figure 5: replicator_equation.py
+- Figure 6: socialdilemma.py
+- Figure 7: socialdilemma.py
 - Figure 8: ESSandSO_regimes_linear.py
 - Figure 9: assortmentselectiongradient.py
 
